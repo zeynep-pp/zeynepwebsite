@@ -1,2 +1,0 @@
-# zeynep.developer.website
-website
